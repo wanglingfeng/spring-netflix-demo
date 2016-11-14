@@ -1,4 +1,4 @@
-# spring-netflix-learning
+# spring-netflix-demo
 Eureka：服务发现<br/>
 Ribbon：负载均衡<br/>
 Hystrix：断路器<br/>
