@@ -1,0 +1,4 @@
+rootProject.name = 'spring-netflix-demo'
+include 'feign-server'
+include 'feign-client'
+include 'eureka'
